@@ -34,8 +34,7 @@ const Navbar = ({scollHandle}) => {
 
   return (
     <Box 
-    id="nav-menu"
-
+      id="nav-menu"
       className={scrolled >= 100 ? "navbarboxShadow" : ""}
       sx={{
         display: "flex",
@@ -81,7 +80,6 @@ const Navbar = ({scollHandle}) => {
                 <Slide key={index} direction="down" in={checked}>
 
                 <Box
-                className="navbarList"
                 sx={{ cursor: "pointer" }}
                 onMouseOut={() => {
                     SetHoverEffect(0);
