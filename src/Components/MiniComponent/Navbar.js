@@ -88,7 +88,7 @@ const Navbar = ({scollHandle}) => {
                   }}
                   onMouseOver={() => SetHoverEffect(index+1)}
                     >
-                <Typography className={ele.val2} variant="h5" sx={{fontSize:"1.1rem" }}>{ele.val1}</Typography>
+                <Typography className={ele?.val2} variant="h5" sx={{fontSize:"1.1rem" }}>{ele.val1}</Typography>
                 {hoverEffect == index+1 ? (
                     <LinearDeterminate color={"white"} />
                     ) : (
