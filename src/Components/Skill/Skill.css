@@ -1,0 +1,19 @@
+
+.skillStack:hover{
+    transition: 500ms linear;
+    transform: scale(1.1);
+}
+
+
+@media screen and (max-width:950px) {
+    
+    .skillContainer{
+        width: 48%!important;
+    }
+    
+    .skillHeading{
+        font-size: 1.5rem!important;
+        top: -18px!important;
+        left: 35%!important;
+    }
+}

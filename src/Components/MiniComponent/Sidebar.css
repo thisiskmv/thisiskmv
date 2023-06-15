@@ -1,0 +1,6 @@
+.socialLogo:hover{
+    
+    transition: 200ms linear;
+    transform: scale(1.1);
+}
+

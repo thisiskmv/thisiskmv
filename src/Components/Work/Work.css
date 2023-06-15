@@ -1,0 +1,30 @@
+.projectImage{
+    border-radius: 5px;
+}
+
+.skillStack:hover{
+    transition: 500ms linear;
+    transform: scale(1.1);
+}
+
+/* 
+.projectDescription{
+    
+} */
+
+
+@media screen and (max-width:950px) {
+    
+    .projectContainer{
+        grid-template-columns: 1fr!important;
+    }
+    .projects{
+        width: 100%!important;
+    }
+    .projectImage{
+        height: 210px!important;
+    }
+    .iconBox{
+        width: 20%!important;
+    }
+}

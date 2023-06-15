@@ -1,0 +1,28 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+
+}
+
+body{
+  /* background-color: rgb(11,24,47); */
+  /* background-color: rgba(11, 24, 47, 0.911); */
+  /* background-image: linear-gradient(to bottom right, black,gray); */
+  background-image: linear-gradient(black,rgba(11, 24, 47, 0.753), black);
+
+  overflow-x: hidden;
+  font-family: "Calibre","Inter","San Francisco","SF Pro Text",-apple-system,system-ui,sans-serif;
+}
+
+body::-webkit-scrollbar {
+  width: 10px;
+}
+
+body::-webkit-scrollbar-track {
+  background-color: transparent;
+}
+
+body::-webkit-scrollbar-thumb {
+  background-color: white;
+}

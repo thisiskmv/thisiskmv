@@ -1,0 +1,16 @@
+
+
+@media screen and (max-width:950px) {
+    
+    .contactheading{
+        font-size: 3rem!important;
+    }
+    
+    .contactSubHeading{
+        font-size: 1.2rem!important;
+        width: 85%!important;
+    }
+    .contactButton{
+        margin-top: 4%!important;
+    }
+}

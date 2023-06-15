@@ -1,0 +1,29 @@
+
+.navbarboxShadow{
+    box-shadow: rgba(0, 0, 0, 0.1) 0px 4px 6px -1px, rgba(0, 0, 0, 0.06) 0px 2px 4px -1px;
+    backdrop-filter: blur(8px);
+
+}
+
+.logoImage{
+    border-radius: 50%;
+    
+}
+
+
+@media screen and (max-width:1200px) {
+    .navbarList{
+        display: none!important;
+    }
+    .navbar-part-2{
+        justify-content: right!important;
+        /* border: 1px solid white; */
+    }
+    .logoText{
+        font-size: 1.3rem!important;
+    }
+    
+    .logoBox{
+        display: block;
+    }
+}
