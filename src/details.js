@@ -26,7 +26,7 @@ export const details={
         val2:"nav-link contact"
     }],
     scrollPosition:[0,545,1070,1730,3400],
-    className:["introDiv","aboutContainer","skillContainer","workDiv","contactDiv"],
+    className:["introDiv","about section","skillContainer","workDiv","contactDiv"],
     linkedInLink:"https://www.linkedin.com/in/kamal-verma-b89a2925a/",
     githubLink:"https://github.com/thisiskmv",
     mailLink:"mailto:thisiskmv@gmail.com",

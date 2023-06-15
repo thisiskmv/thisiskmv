@@ -33,7 +33,9 @@ const Navbar = ({scollHandle}) => {
   });
 
   return (
-    <Box
+    <Box 
+    id="nav-menu"
+
       className={scrolled >= 100 ? "navbarboxShadow" : ""}
       sx={{
         display: "flex",
@@ -103,6 +105,7 @@ const Navbar = ({scollHandle}) => {
           <Button variant="outlined"
             sx={{
               // border: "1px solid #64ffda",
+              id:"resume-button-1",
               border: "1px solid black",
               boxShadow:"0 0 10px green",
               color: "white",

@@ -23,7 +23,7 @@ const Skill = () => {
   }
 
   return (
-    <Box sx={{width:"80%",margin:"15% auto",padding:"0% 10px"}}>
+    <Box id="skills" sx={{width:"80%",margin:"15% auto",padding:"0% 10px"}}>
         <Box sx={{position:"relative"}} >
           <Zoom in={checked2}>
 
@@ -37,9 +37,9 @@ const Skill = () => {
 
                       <ListItem className='skillContainer' key={index} style={{display:"block",width:"25%"}}>
                             <Zoom  in={checked1}>
-                              <Box className='skillStack'>
-                                <img className='skillStack' width={"45%"} style={{margin:"auto",display:"block"}} src={ele.img}/>
-                                <Typography sx={{textAlign:"center",color:"white"}}>{ele.name}</Typography>
+                              <Box className="skills-card" >
+                                <img className="skills-card-img"  width={"45%"} style={{margin:"auto",display:"block"}} src={ele.img}/>
+                                <Typography className="skills-card-name" sx={{textAlign:"center",color:"white"}}>{ele.name}</Typography>
                               </Box>
                             </Zoom>
                       </ListItem>

@@ -1,6 +1,7 @@
-import { Box,  Typography, Zoom } from "@mui/material";
+import { Box, Button,  Typography, Zoom } from "@mui/material";
 import React, {  useState } from "react";
 import thisiskmv from "../../media/thisiskmv.png"
+import LinearDeterminate from "../MiniComponent/ProgressComp";
 import "./About.css";
 
 const About = () => {
@@ -20,11 +21,15 @@ const About = () => {
       setChecked2(true);
     }, 800);
   }
+  const openResume = () => {
+    window.open(
+      "https://drive.google.com/file/d/1tqO6N7mu2UwSY8CxzUEoCThGq8uA49Fv/view?usp=sharing"
+    );
+  };
 
   return (
     <Box
-      id="aboutDiv"
-      className="aboutContainer"
+    id="about" className="about section"
       sx={{
         width: "80%",
         margin: "10% auto",
@@ -71,6 +76,18 @@ const About = () => {
             building accessible, inclusive products.
           </Typography>
         </Zoom>
+        <Box marginTop="1.5rem" onClick={openResume}>
+          <Button variant="outlined"
+            sx={{
+              // border: "1px solid #64ffda",
+              id:"resume-button-2",
+              border: "1px solid black",
+              boxShadow:"0 0 10px green",
+              color: "white",
+              fontSize: "0.8rem",
+            }}>Resume</Button>
+          <LinearDeterminate color={"transparent"}/>
+        </Box>
       </Box>
       <Zoom in={checked2}>
         <Box
@@ -78,7 +95,8 @@ const About = () => {
           sx={{ display: "grid", justifyContent: "right" }}
         >
           <img
-            className="profileImage"
+          className="home-img"
+            // className="profileImage"
             style={{ display: "block", margin: "auto", borderRadius: "5px" }}
             width={"40%"}
             src={thisiskmv}
