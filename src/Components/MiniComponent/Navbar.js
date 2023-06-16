@@ -102,9 +102,10 @@ const Navbar = ({scollHandle}) => {
        
         <Box onClick={openResume}>
           <Button variant="outlined"
+           id="resume-button-1"
             sx={{
               // border: "1px solid #64ffda",
-              id:"resume-button-1",
+             
               border: "1px solid black",
               boxShadow:"0 0 10px green",
               color: "white",

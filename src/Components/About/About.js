@@ -78,9 +78,10 @@ const About = () => {
         </Zoom>
         <Box marginTop="1.5rem" onClick={openResume}>
           <Button variant="outlined"
+          id="resume-button-2"
             sx={{
               // border: "1px solid #64ffda",
-              id:"resume-button-2",
+              
               border: "1px solid black",
               boxShadow:"0 0 10px green",
               color: "white",
