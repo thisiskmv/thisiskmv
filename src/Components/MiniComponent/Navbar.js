@@ -32,6 +32,7 @@ const Navbar = ({scollHandle}) => {
     setScrolled(document.documentElement.scrollHeight);
   });
 
+  
   return (
     <Box 
       id="nav-menu"

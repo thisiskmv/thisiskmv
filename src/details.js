@@ -20,7 +20,7 @@ export const details={
         val2:"nav-link skills"
     },{
         val1:"Work",
-        val2:"nav-link work"
+        val2:"nav-link projects"
     },{
         val1:"Contact",
         val2:"nav-link contact"
@@ -29,7 +29,8 @@ export const details={
     className:["introDiv","about section","skillContainer","workDiv","contactDiv"],
     linkedInLink:"https://www.linkedin.com/in/kamal-verma-b89a2925a/",
     githubLink:"https://github.com/thisiskmv",
-    mailLink:"mailto:thisiskmv@gmail.com",
+    instagram:'7073739289',
+    mailLink:'mailto:thisiskmv@gmail.com',
     techStack:[
             {
                 name:"HTML",
