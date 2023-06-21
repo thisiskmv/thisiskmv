@@ -17,11 +17,6 @@
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1tqO6N7mu2UwSY8CxzUEoCThGq8uA49Fv/view](https://drive.google.com/file/d/1tqO6N7mu2UwSY8CxzUEoCThGq8uA49Fv/view)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/kamal-verma-b89a2925a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/kamal-verma-b89a2925a/" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/https://leetcode.com/_kamal_kamal/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/_kamal_kamal/" height="30" width="40" /></a>
-</p>
 ## 🏆 Trophies :
 <br/>
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Bharat-Shaw&theme=onedark" alt="vishalll069" /></a> </p>
@@ -49,9 +44,37 @@
 </div>
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=thisiskmv&show_icons=true&locale=en&layout=compact" alt="thisiskmv" /></p>
+## ✅ Github Stats :
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=thisiskmv&show_icons=true&locale=en" alt="thisiskmv" /></p>
+<div align="center" style="display: flex; flex-wrap: wrap;">
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=thisiskmv&" alt="thisiskmv" /></p>
+<img width="400px" height="200px" align="center" src="https://github-readme-stats.vercel.app/api?username=thisiskmv&theme=neon&border_radius=2.7&show_icons=true" alt="thisiskmv" />
+  
+<img width="425px" height="200px" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=thisiskmv&theme=neon&border_radius=2.7&date_format=M%20j%5B%2C%20Y%5D" alt="thisiskmv" />
+  
+<img width="400px" height="200px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thisiskmv&theme=neon&border_radius=2.7" alt="thisiskmv" />
+  
+</div>
 
+<h2>🌍 Connect with me :</h2>
+   <p align="left">
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.linkedin.com/in/bharat-shaw-4b5b76274/" target="blank">
+            <img align="center"
+                src="https://img.icons8.com/3d-fluency/94/linkedin.png"
+                alt="https://www.linkedin.com/in/kamal-verma-b89a2925a/" width="40px" />
+        </a>
+        <a href="https://github.com/Bharat-Shaw" target="blank">
+            <img align="center"
+                src="https://img.icons8.com/3d-fluency/94/github.png"
+                alt="https://github.com/thisiskmv" width="40px"/>
+        </a>
+    </p>
+    <h2>❤ Views and Followers :</h2>
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://github.com/Bharat-Shaw/github-profile-views-counter">
+        <img src="https://komarev.com/ghpvc/?username=thisiskmv" >
+    </a>
+    <a href="https://github.com/Bharat-Shaw?tab=followers">
+        <img src="https://img.shields.io/github/followers/thisiskmv?label=Followers&style=social" alt="GitHub Badge">
+    </a>
+    <hr />
+    <h2><a href="https://thisiskmv.github.io/">🌍 | Portfolio </a></h2>
