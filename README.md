@@ -19,7 +19,7 @@
 
 ## 🏆 Trophies :
 <br/>
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Bharat-Shaw&theme=onedark" alt="vishalll069" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=thisiskmv&theme=onedark" alt="vishalll069" /></a> </p>
 
 ## 👨‍💻 TECH STACK :
 
