@@ -48,16 +48,16 @@
 
 <div align="center" style="display: flex; flex-wrap: wrap;">
 
-<img width="400px" height="200px" align="center" src="https://github-readme-stats.vercel.app/api?username=thisiskmv&theme=neon&border_radius=2.7&show_icons=true" alt="thisiskmv" />
+<img width="400px" height="200px" align="center" src="https://github-readme-stats.vercel.app/api?username=thisiskmv&theme=radical&border_radius=2.7&show_icons=true" alt="thisiskmv" />
 
   
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=thisiskmv&theme=radical" alt="kamal verma's GitHub Contribution"/>
   
 
   
-<img width="425px" height="200px" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=thisiskmv&theme=neon&border_radius=2.7&date_format=M%20j%5B%2C%20Y%5D" alt="thisiskmv" />
+<img width="425px" height="200px" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=thisiskmv&theme=radical&border_radius=2.7&date_format=M%20j%5B%2C%20Y%5D" alt="thisiskmv" />
   
-<img width="400px" height="200px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thisiskmv&theme=neon&border_radius=2.7" alt="thisiskmv" />
+<img width="400px" height="200px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thisiskmv&theme=radical&border_radius=2.7" alt="thisiskmv" />
   
 </div>
 
